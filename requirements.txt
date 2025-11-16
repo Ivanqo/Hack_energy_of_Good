@@ -1,0 +1,6 @@
+telebot
+requests
+supabase
+g4f
+yandex-cloud-ml-sdk
+python-dotenv
